@@ -1,4 +1,6 @@
 #Job Portal - MERN Stack Application
+
+
 This is a Job Portal application built with the MERN stack. It allows users to browse and apply for job listings, and employers can post job openings.
 
 Table of Contents
